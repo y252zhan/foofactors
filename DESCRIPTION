@@ -14,3 +14,5 @@ LazyData: true
 RoxygenNote: 5.0.1.9000
 Suggests: testthat
 Imports: dplyr
+URL: https://github.com/jennybc/foofactors
+BugReports: https://github.com/jennybc/foofactors/issues
