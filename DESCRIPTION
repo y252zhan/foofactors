@@ -7,7 +7,7 @@ Description: Factors have driven people to extreme measures, like ordering
     custom conference ribbons and laptop stickers to express how HELLNO we
     feel about stringsAsFactors. And yet, sometimes you need them. Can they
     be made less maddening? Let's find out.
-Depends: 
+Depends:
     R (>= 3.2.2)
 License: MIT + file LICENSE
 LazyData: true
@@ -16,6 +16,6 @@ Suggests: testthat,
     knitr,
     rmarkdown
 Imports: dplyr
-URL: https://github.com/jennybc/foofactors
-BugReports: https://github.com/jennybc/foofactors/issues
+URL: https://github.com/STAT545-UBC/foofactors
+BugReports: https://github.com/STAT545-UBC/foofactors/issues
 VignetteBuilder: knitr
