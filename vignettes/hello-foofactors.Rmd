@@ -11,7 +11,7 @@ vignette: >
 
 ```{r}
 library(devtools)
-#install_github("y252zhan/foofactors")
+install_github("y252zhan/foofactors")
 library(foofactors)
 #functions created by Jenny
 fbind(iris$Species[c(1, 51, 101)], PlantGrowth$group[c(1, 11, 21)])

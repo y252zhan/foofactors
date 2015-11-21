@@ -21,7 +21,7 @@ This has been extended by Yucheng Zhang to include two more functions (ffactor a
 Here's how to use the `foofactors` package.
 ```{r}
 library(devtools)
-#install_github("y252zhan/foofactors")
+install_github("y252zhan/foofactors")
 library(foofactors)
 #functions created by Jenny
 fbind(iris$Species[c(1, 51, 101)], PlantGrowth$group[c(1, 11, 21)])
